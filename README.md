@@ -50,22 +50,15 @@
 ## GitHub Stats
 
 <p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=Ryan-Task&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" 
-  />
-  
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Task&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ryan-Task&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
 </p>
 
 <p align="center">
-  <img 
-    width="75%" 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ryan-Task&theme=tokyo-night&hide_border=true" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Task&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ryan-Task&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
