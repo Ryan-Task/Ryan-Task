@@ -64,6 +64,11 @@
 </p>
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryan-Task/Ryan-Task/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryan-Task/Ryan-Task/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ryan-Task/Ryan-Task/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
 <p align="center">
   <i>Building, learning, and improving one project at a time.</i>
