@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-header-banner.png" alt="GitHub Header Banner" width="100%" />
+  <img src="./img/github-header-banner.png" alt="GitHub Header Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Ryan 👋</h1>
@@ -10,17 +10,17 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 💻 Currently exploring modern full-stack development
-- ⚙️ Working with Laravel, PostgreSQL, Supabase, and JavaScript ecosystems
-- 🌱 Continuously learning system architecture, backend engineering, and cloud technologies
-- 🎯 Interested in building impactful and production-ready applications
-- 📚 Focused on improving both technical depth and problem-solving skills
+- Currently exploring modern full-stack development
+- Working with Laravel, PostgreSQL, Supabase, and JavaScript ecosystems
+- Continuously learning system architecture, backend engineering, and cloud technologies
+- Interested in building impactful and production-ready applications
+- Focused on improving both technical depth and problem-solving skills
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -30,8 +30,14 @@
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black)
+
+### Mobile & Programming
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -41,7 +47,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryan-Task&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -51,7 +57,7 @@
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://github.com/Ryan-Task">
